@@ -2,7 +2,7 @@
 page_id: publications
 layout: page
 permalink: /publications/
-title: publications
+title: Публикации
 description:
 nav: true
 nav_order: 2
@@ -12,6 +12,6 @@ nav_order: 2
 <div class="publications">
 
 {% bibliography %}
-There's nothing yet
+Пока ничего нет
 
 </div>

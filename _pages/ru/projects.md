@@ -1,12 +1,12 @@
 ---
 page_id: projects
 layout: page
-title: projects
+title: Проекты
 permalink: /projects/
 description:
 nav: true
 nav_order: 3
-display_categories: [robotics]
+display_categories: [робототехника]
 horizontal: false
 ---
 
