@@ -12,6 +12,5 @@ nav_order: 2
 <div class="publications">
 
 {% bibliography %}
-There's nothing yet
 
 </div>

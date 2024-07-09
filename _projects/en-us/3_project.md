@@ -3,7 +3,7 @@ page_id: project_3
 layout: page
 title: Humanoid Robot
 description: Intelligent Humanoid Robot
-img: assets/img/project1.jpg
+img: assets/img/project3.jpg
 importance: 1
 category: robotics
 related_publications: true
@@ -17,7 +17,7 @@ related_publications: true
         <p>Human assistant for specific tasks, physical tasks, and the automation of various jobs. Companion, assistant, tutor (engagement), tour guide for people. Humanoid robot teacher (robots can answer questions and repeat the same thing indefinitely without tiring. Humans, even the most empathetic, quickly tire of explaining something, but robots do not).</p>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/project1.jpg" title="robot" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project3.jpg" title="robot" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             Intelligent Humanoid Robot
         </div>

@@ -3,7 +3,7 @@ page_id: project_3
 layout: page
 title: Гуманоидный робот
 description: Интеллектуальный гуманоидный робот
-img: assets/img/project1.jpg
+img: assets/img/project3.jpg
 importance: 1
 category: робототехника
 related_publications: true
@@ -19,7 +19,7 @@ related_publications: true
         <p>Помощник человека в выполнении конкретных задач, физических задач, автоматизация различных работ. Компаньон, ассистент, тьютор (вовлечение), экскурсовод  человека. Гуманоидный робот учитель (роботы могут до бесконечности отвечать на вопросы и повторять одно и то же, и это не будет их утомлять. Человек, даже самый эмпатичный, довольно быстро устаёт объяснять что-то, а робот — нет).</p>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/project1.jpg" title="robot" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project3.jpg" title="robot" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             Интеллектуальный гуманоидный робот
         </div>
@@ -37,10 +37,6 @@ related_publications: true
     <li>Разработать, спроектировать, создать, собрать прототип гуманоидного интеллектуального робота.</li>
 		<li>Разработать интеллектуальную платформу управления.</li>
 		<li>Дополнительно: создать образовательный проект для обучения, тестирования и разнообразных исследований.</li>
-		<li></li>
-		<li></li>
-		<li></li>
-		<li></li>
 </ul>
 
 <h3 style="font-weight: normal;">Гипотеза проекта:</h3>

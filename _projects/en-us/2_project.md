@@ -3,7 +3,7 @@ page_id: project_2
 layout: page
 title: Robotic Exoskeleton
 description: Rehabilitation Intelligent Robotic Exoskeleton
-img: assets/img/project1.jpg
+img: assets/img/project2.jpg
 importance: 1
 category: robotics
 related_publications: true
@@ -20,7 +20,7 @@ related_publications: true
         </ul>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/project1.jpg" title="robot" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project2.jpg" title="robot" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             Rehabilitation Intelligent Robotic Exoskeleton
         </div>

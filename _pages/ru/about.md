@@ -17,8 +17,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Напишите здесь свою биографию. Расскажите миру о себе. Укажите ссылку на ваш любимый [subreddit](http://reddit.com). Вы также можете вставить фотографию. Код уже есть, просто назовите свою картинку `prof_pic.jpg` и поместите ее в папку `img/`.
-
-Поместите свой адрес / абонентский ящик / другую информацию прямо под картинкой. Вы также можете отключить любой из этих элементов, отредактировав свойство `profile` в YAML-заголовке вашего `_pages/about.md`. Отредактируйте `_bibliography/papers.bib`, и Jekyll автоматически отобразит вашу страницу [publications page](/multi-language-al-folio/publications/).
-
-Сделайте ссылки на свои социальные сети. Эта тема настроена на использование иконок [Font Awesome](https://fontawesome.com/) и [Academicons](https://jpswalsh.github.io/academicons/), как показано ниже. Добавьте свои Facebook, Twitter, LinkedIn, Google Scholar или просто отключите все из них.
+Учащийся 8 класса ГОУ «Гимназия №13» города Минск. Специализируюсь на программировании Backend и Frontend, владею языками Python и C++. На уровне Middle занимаюсь роботизацией бизнес-процессов (RPA) и работаю в SolidWorks. Робототехник.
