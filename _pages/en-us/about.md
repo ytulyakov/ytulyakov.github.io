@@ -17,4 +17,18 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Pupil of the 8th grade of the State Educational Institution "Gymnasium #13" of Minsk. I specialize in Backend and Frontend programming, I know Python and C++ languages. At Middle level I am engaged in robotization of business processes (RPA) and work in SolidWorks. Robotics Engineer.
+<div>
+  <h3 style="margin: 0 0 30px;"><b>Appreciating the world, creating the future!</b></h3>
+</div>
+
+
+<div style="margin-bottom: 10px;">
+  <h5>Welcome!</h5>
+</div>
+
+<h5>Pupil of 8th grade, State Educational Institution "Gymnasium N13", Minsk city</h5>
+<h5>Programmer</h5>
+<h5>Backend and Frontend (<i>programming languages: Python and C++</i>)</h5>
+<h5>Middle RPA</h5>
+<h5>Solidworks</h5>
+<h5>Robotics</h5>
