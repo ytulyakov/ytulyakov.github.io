@@ -20,11 +20,6 @@ social: true # includes social icons at the bottom of the page
   <h3 style="margin: 0 0 30px;"><b>Ценим мир, создаем будущее!</b></h3>
 </div>
 
-
-<div style="margin-bottom: 10px;">
-  <h5>Добро пожаловать!</h5>
-</div>
-
 <h5>Учащийся 8 класса, ГУО "Гимназия N13" г. Минск</h5>
 <h5>Программист</h5>
 <h5>Backend и Frontend (<i>языки программирования: Python и C++</i>)</h5>
