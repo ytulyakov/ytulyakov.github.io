@@ -29,6 +29,7 @@ div.gallery img {
 </style>
 
 <div class="tibo">
+<h2><b>tibo 2024</b></h2>
 
 <div class="gallery">
     {% include figure.liquid path="assets/img/tibo_1.jpg" title="tibo" class="img-fluid rounded z-depth-1"%}
