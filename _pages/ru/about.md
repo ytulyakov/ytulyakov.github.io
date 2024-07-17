@@ -246,3 +246,6 @@ social: true # includes social icons at the bottom of the page
     </div>
   </div>
 
+<p>Количество посещений:</p>
+<script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=8d55d0cf0f94882748af448f5432a691960c8013'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1204301/t/3"></script>
