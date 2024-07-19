@@ -233,6 +233,16 @@ social: true # includes social icons at the bottom of the page
             <div class="timeline-step">
               <div class="timeline-content">
                 <div class="inner-circle">
+                  <img class="fa-img" src="assets/img/bsuir.png">
+                </div>
+                <p class="h6 mt-3 mb-1">2022</p>
+                <p class="h6 text-muted mb-0 mb-lg-0">Web - мастер</p>
+                <p class="h6 text-muted mb-0 mb-lg-0">Академия информатики при БГУИР (Белорусский государственный университет информатики и радиоэлектроники)</p>
+              </div>
+            </div>
+            <div class="timeline-step">
+              <div class="timeline-content">
+                <div class="inner-circle">
                   <img class="fa-img" src="assets/img/iteen.png">
                 </div>
                 <p class="h6 mt-3 mb-1">2019</p>

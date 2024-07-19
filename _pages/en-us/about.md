@@ -211,7 +211,7 @@ social: true # includes social icons at the bottom of the page
                   <img class="fa-img" src="../../assets/img/bsuir.png">
                 </div>
                 <p class="h6 mt-3 mb-1">2023</p>
-                <p class="h6 text-muted mb-0 mb-lg-0">Кибербезопасность</p>
+                <p class="h6 text-muted mb-0 mb-lg-0">Cybersecurity</p>
                 <p class="h6 text-muted mb-0 mb-lg-0">Academy of Informatics at BSUIR (Belarusian State University of Informatics and Radioelectronics)</p>
               </div>
             </div>
@@ -238,6 +238,16 @@ social: true # includes social icons at the bottom of the page
             <div class="timeline-step">
               <div class="timeline-content">
                 <div class="inner-circle">
+                  <img class="fa-img" src="../../assets/img/bsuir.png">
+                </div>
+                <p class="h6 mt-3 mb-1">2022</p>
+                <p class="h6 text-muted mb-0 mb-lg-0">Web - master</p>
+                <p class="h6 text-muted mb-0 mb-lg-0">Academy of Informatics at BSUIR (Belarusian State University of Informatics and Radioelectronics)</p>
+              </div>
+            </div>
+            <div class="timeline-step">
+              <div class="timeline-content">
+                <div class="inner-circle">
                   <img class="fa-img" src="../../assets/img/iteen.png">
                 </div>
                 <p class="h6 mt-3 mb-1">2019</p>
@@ -252,6 +262,8 @@ social: true # includes social icons at the bottom of the page
   </div>
 
 
-<p>Количество посещений:</p>
+<div style="display: grid; justify-content: right;">
+<p>Number of visits:</p>
 <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=8d55d0cf0f94882748af448f5432a691960c8013'></script>
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1204301/t/3"></script>
+</div>
