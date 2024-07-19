@@ -187,7 +187,7 @@ social: true # includes social icons at the bottom of the page
                 </div>
                 <p class="h6 mt-3 mb-1">2023</p>
                 <p class="h6 text-muted mb-0 mb-lg-0">RPA (PIX, Sherpa, Primo, UiPath)</p>
-                <p class="h6 text-muted mb-0 mb-lg-0">НАРПА(Национальная Академия Роботизации и Процессной Автоматизации)</p>
+                <p class="h6 text-muted mb-0 mb-lg-0">НАРПА (Национальная Академия Роботизации и Процессной Автоматизации, Россия)</p>
               </div>
             </div>
             <div class="timeline-step">
