@@ -55,3 +55,8 @@ related_publications: true
 
 <h3 style="font-weight: normal;">Актуальность:</h3>
 <p>Промышленная робототехника обеспечит <b>конкурентоспособность</b> национальной экономики Беларуси на мировой арене, а производство промышленных роботов укрепит <b>технологический суверенитет</b> Беларуси.</p>
+
+<h3 style="font-weight: normal;">Презентация:</h3>
+<object data="../../assets/pdf/ru/project_1.pdf" type="application/pdf" width="100%" height="650px;">
+  <p>Alternative text - include a link <a href="../../assets/pdf/ru/project_1.pdf">to the PDF!</a></p>a
+</object>
