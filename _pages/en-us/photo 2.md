@@ -29,7 +29,7 @@ div.gallery img {
 }
 </style>
 
-<div class="tibo">
+<div class="tibo" style="position: absolute; padding-bottom: 100px;">
 <h2><b>tibo 2024</b></h2>
 
 <div class="gallery">
