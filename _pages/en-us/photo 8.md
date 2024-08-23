@@ -56,7 +56,7 @@ div.gallery img {
 <div class="gallery">
     {% include figure.liquid path="assets/img/tibo_5.jpg" title="tibo_4.jpg" class="img-fluid rounded z-depth-1"%}
 </div>
-3
+
 
 
 </div>

@@ -1,13 +1,12 @@
 ---
 page_id: photos
 layout: page
-title: photos
+title: Фотографии
 permalink: /photos/
 description:
 nav: true
 nav_order: 4
 ---
-
 
 <style>
 
@@ -53,10 +52,9 @@ div.gallery img {
     {% include figure.liquid path="assets/img/tibo_4.jpg" title="tibo_4.jpg" class="img-fluid rounded z-depth-1"%}
 </div>
 
+
 <div class="gallery">
     {% include figure.liquid path="assets/img/tibo_5.jpg" title="tibo_4.jpg" class="img-fluid rounded z-depth-1"%}
 </div>
-3
-
 
 </div>
