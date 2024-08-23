@@ -92,16 +92,6 @@ div.gallery img {
 <div class="gallery">
     {% include figure.liquid path="assets/img/avgust_1.jpg" title="minist_obrazovanii.jpg" class="img-fluid rounded z-depth-1"%}
 </div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 </div>
 </div>

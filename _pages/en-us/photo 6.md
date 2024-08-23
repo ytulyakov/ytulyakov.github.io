@@ -58,5 +58,5 @@ div.gallery img {
 </div>
 
 
-jjk
+
 </div>
