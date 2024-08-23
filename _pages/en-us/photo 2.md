@@ -63,7 +63,7 @@ div.gallery img {
 </div>
 
 <div>
-<h2><b>Августовская выставка (23.08.2024)</b></h2>
+<h2><b>August exhibition (23.08.2024)</b></h2>
 
 
 
