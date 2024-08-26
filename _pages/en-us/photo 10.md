@@ -9,6 +9,7 @@ nav_order: 4
 ---
 
 
+
 <style>
 
 	div.gallery {
@@ -25,7 +26,13 @@ div.gallery img {
 }
 
 div.resize  {
-    margin: 5px;
+  margin: 5px;
+  float: left;
+  width: 300px;
+}
+
+div.resize2  {
+  margin: 5px;
   float: left;
   width: 300px;
 }
@@ -35,12 +42,21 @@ div.resize img {
   height: 400px;
 }
 
+div.resize2 img {
+  height: 225px;
+  width: 100%;
+}
+
 
 .gallery { 
   padding-top: 30px;
 }
 
 .resize { 
+  padding-top: 30px;
+}
+
+.resize2 { 
   padding-top: 30px;
 }
 
@@ -80,7 +96,7 @@ div.resize img {
 </div>
 
 <div>
-<h2><b>Августовская выставка (23.08.2024)</b></h2>
+<h2><b>August Exhibition (23.08.2024)</b></h2>
 
 
 
@@ -92,7 +108,7 @@ div.resize img {
     {% include figure.liquid path="assets/img/avgust_3.jpg" title="minist_obrazovanii.jpg" class="img-fluid rounded z-depth-1"%}
 </div>
 
-<div class="gallery">
+<div class="resize2">
     {% include figure.liquid path="assets/img/avgust_2.jpg" title="minist_obrazovanii.jpg" class="img-fluid rounded z-depth-1"%}
 </div>
 
