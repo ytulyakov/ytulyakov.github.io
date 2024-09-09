@@ -1,13 +1,12 @@
 ---
 page_id: photos
 layout: page
-title: Фотографии
+title: photos
 permalink: /photos/
 description:
 nav: true
 nav_order: 4
 ---
-
 
 
 <style>
@@ -25,41 +24,9 @@ div.gallery img {
   height: auto;
 }
 
-div.resize  {
-  margin: 5px;
-  float: left;
-  width: 300px;
-}
-
-div.resize2  {
-  margin: 5px;
-  float: left;
-  width: 300px;
-}
-
-div.resize img {
-  width: 100%;
-  height: 400px;
-}
-
-div.resize2 img {
-  height: 225px;
-  width: 100%;
-}
-
-
 .gallery { 
   padding-top: 30px;
 }
-
-.resize { 
-  padding-top: 30px;
-}
-
-.resize2 { 
-  padding-top: 30px;
-}
-
 </style>
 
 <div class="tibo">
@@ -96,7 +63,7 @@ div.resize2 img {
 </div>
 
 <div>
-<h2><b>Августовская выставка (23.08.2024)</b></h2>
+<h2><b>August exhibition (23.08.2024)</b></h2>
 
 
 
@@ -108,7 +75,7 @@ div.resize2 img {
     {% include figure.liquid path="assets/img/avgust_3.jpg" title="minist_obrazovanii.jpg" class="img-fluid rounded z-depth-1"%}
 </div>
 
-<div class="resize2">
+<div class="gallery">
     {% include figure.liquid path="assets/img/avgust_2.jpg" title="minist_obrazovanii.jpg" class="img-fluid rounded z-depth-1"%}
 </div>
 
@@ -117,34 +84,13 @@ div.resize2 img {
 </div>
 
 
-<div class="resize">
+<div class="gallery">
     {% include figure.liquid path="assets/img/avgust_4.jpg" title="tibo_4.jpg" class="img-fluid rounded z-depth-1"%}
 </div>
 
 
 <div class="gallery">
     {% include figure.liquid path="assets/img/avgust_1.jpg" title="minist_obrazovanii.jpg" class="img-fluid rounded z-depth-1"%}
-</div>
-</div>
-
-
-
-
-<div>
-<h2><b>Фестиваль науки (Ботанический сад 07.09.2024)</b></h2>
-
-
-
-<div class="resize">
-    {% include figure.liquid path="assets/img/sad_1.jpg" title="tibo_4.jpg" class="img-fluid rounded z-depth-1"%}
-</div>
-
-<div class="gallery">
-    {% include figure.liquid path="assets/img/sad_2.jpg" title="minist_obrazovanii.jpg" class="img-fluid rounded z-depth-1"%}
-</div>
-
-<div class="gallery">
-    {% include figure.liquid path="assets/img/sad_3.jpg" title="tibo_4.jpg" class="img-fluid rounded z-depth-1"%}
 </div>
 
 </div>
