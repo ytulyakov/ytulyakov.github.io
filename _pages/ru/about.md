@@ -118,7 +118,7 @@ social: true # includes social icons at the bottom of the page
 <div>
   <h3 style="margin: 30px 0 30px;"><b>РАЗРАБОТКА IT-ПРОДУКТОВ, </b></h3>
 </div>
-<h5>WEB-разработка, Frontend-разработка, Backend-разработка, RPA-разработка, Искусственный интеллект, Разработка IT-продуктов для образовательных целей</h5>
+<h5>WEB-разработка, Frontend-разработка, Backend-разработка, RPA-разработка (PIX, PRIMO, Sherpa, UiPath), Искусственный интеллект, Разработка IT-продуктов для образовательных целей</h5>
 
 <div>
   <h3 style="margin: 30px 0 30px;"><b>РОБОТОТЕХНИКА</b></h3>
