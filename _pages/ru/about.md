@@ -115,6 +115,16 @@ social: true # includes social icons at the bottom of the page
 <h5>Solidworks</h5>
 <h5>Робототехник</h5>
 
+<div>
+  <h3 style="margin: 30px 0 30px;"><b>РАЗРАБОТКА IT-ПРОДУКТОВ, </b></h3>
+</div>
+<h5>WEB-разработка, Frontend-разработка, Backend-разработка, RPA-разработка, Искусственный интеллект, Разработка IT-продуктов для образовательных целей</h5>
+
+<div>
+  <h3 style="margin: 30px 0 30px;"><b>РОБОТОТЕХНИКА</b></h3>
+</div>
+<h5>Разработка промышленной робототехники, Разработка реабилитационной робототехники, Разработка образовательной робототехники</h5>
+
 <div style="margin-top: 70px;" class="col-xs-11 mx-auto row">
     <h3 class="fw-bold">Образование</h3>
     <div class="container col-lg-12">
