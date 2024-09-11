@@ -126,7 +126,7 @@ social: true # includes social icons at the bottom of the page
 <h5>Разработка промышленной робототехники, Разработка реабилитационной робототехники, Разработка образовательной робототехники</h5>
 
 <div style="margin-top: 70px;" class="col-xs-11 mx-auto row">
-    <h3 class="fw-bold">Образование</h3>
+    <h3><b>ОБРАЗОВАНИЕ</b></h3>
     <div class="container col-lg-12">
       <div id="scroll-container" class="row scrolling-wrapper flex-row flex-nowrap mt-4 pb-4 pt-2 js-scrollable">
         <div class="col">
