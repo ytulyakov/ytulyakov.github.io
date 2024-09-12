@@ -110,7 +110,7 @@ social: true # includes social icons at the bottom of the page
 
 <h5>Учащийся 8 класса, ГУО "Гимназия N13" г. Минск</h5>
 <h5>Программист</h5>
-<h5>Backend и Frontend (<i>языки программирования: Python и C++</i>)</h5>
+<h5>Backend и Frontend (<i>Python / C++</i>)</h5>
 <h5>Middle RPA</h5>
 <h5>Solidworks</h5>
 <h5>Робототехник</h5>
