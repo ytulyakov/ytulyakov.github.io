@@ -116,7 +116,7 @@ social: true # includes social icons at the bottom of the page
 <h5>Робототехник</h5>
 
 <div>
-  <h3 style="margin: 30px 0 30px;"><b>РАЗРАБОТКА IT-ПРОДУКТОВ, </b></h3>
+  <h3 style="margin: 30px 0 30px;"><b>РАЗРАБОТКА IT-ПРОДУКТОВ</b></h3>
 </div>
 <h5>WEB-разработка, Frontend-разработка, Backend-разработка, RPA-разработка (PIX, PRIMO, Sherpa, UiPath), Искусственный интеллект, Разработка IT-продуктов для образовательных целей</h5>
 
