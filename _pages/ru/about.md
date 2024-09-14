@@ -125,6 +125,13 @@ social: true # includes social icons at the bottom of the page
 </div>
 <h5>Разработка промышленной робототехники, Разработка реабилитационной робототехники, Разработка образовательной робототехники</h5>
 
+
+<div>
+  <h3 style="margin: 30px 0 30px;"><b>3D</b></h3>
+</div>
+<h5>3D моделирование,  3D прототипирование, 3D печать</h5>
+
+
 <div style="margin-top: 70px;" class="col-xs-11 mx-auto row">
     <h3><b>ОБРАЗОВАНИЕ</b></h3>
     <div class="container col-lg-12">
