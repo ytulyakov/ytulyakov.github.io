@@ -29,7 +29,7 @@ div.gallery img {
 }
 </style>
 
-<div class="tibo" style="position: absolute; padding-bottom: 100px;">
+<div class="tibo">
 <h2><b>tibo 2024</b></h2>
 
 <div class="gallery">
@@ -56,7 +56,7 @@ div.gallery img {
 <div class="gallery">
     {% include figure.liquid path="assets/img/tibo_5.jpg" title="tibo_4.jpg" class="img-fluid rounded z-depth-1"%}
 </div>
+dsfs
 
-sdgnklsdh
 
 </div>

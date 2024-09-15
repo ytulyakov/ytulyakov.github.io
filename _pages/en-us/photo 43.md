@@ -1,7 +1,7 @@
 ---
 page_id: photos
 layout: page
-title: Фотографии
+title: photos
 permalink: /photos/
 description:
 nav: true
@@ -96,7 +96,7 @@ div.resize2 img {
 </div>
 
 <div>
-<h2><b>Августовская выставка (23.08.2024)</b></h2>
+<h2><b>August Exhibition (23.08.2024)</b></h2>
 
 
 
@@ -125,27 +125,5 @@ div.resize2 img {
 <div class="gallery">
     {% include figure.liquid path="assets/img/avgust_1.jpg" title="minist_obrazovanii.jpg" class="img-fluid rounded z-depth-1"%}
 </div>
-</div>
-
-
-
-
-<div>
-<h2><b>Фестиваль науки (Ботанический сад 07.09.2024)</b></h2>
-
-
-
-<div class="resize">
-    {% include figure.liquid path="assets/img/sad_1.jpg" title="tibo_4.jpg" class="img-fluid rounded z-depth-1"%}
-</div>
-
-<div class="gallery">
-    {% include figure.liquid path="assets/img/sad_2.jpg" title="minist_obrazovanii.jpg" class="img-fluid rounded z-depth-1"%}
-</div>
-
-<div class="gallery">
-    {% include figure.liquid path="assets/img/sad_3.jpg" title="tibo_4.jpg" class="img-fluid rounded z-depth-1"%}
-</div>
-
 </div>
 </div>
