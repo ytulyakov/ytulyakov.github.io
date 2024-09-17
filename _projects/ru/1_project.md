@@ -65,6 +65,12 @@ related_publications: true
 <h3 style="font-weight: normal;">Экономические расчёты проекта интеллектуального промышленного робота «БАШНЯ»:</h3>
 <object data="../../assets/pdf/ru/ekonimika.pdf" type="application/pdf" width="100%" height="650px;
 ">
-  <p>Alternative text - include a link <a href="../../assets/pdf/ru/ekonimika.pdf">to the PDF!</a></
+  <p>Alternative text - include a link <a href="../../assets/pdf/ru/ekonimika.pdf">to the PDF!</a></p>a
+</object>
+
+<h3 style="font-weight: normal;">Что даст организация производства и внедрение промышленных роботов в Республике Беларусь:</h3>
+<object data="../../assets/pdf/ru/proisvodsto.pdf" type="application/pdf" width="100%" height="650px;
+">
+  <p>Alternative text - include a link <a href="../../assets/pdf/ru/proisvodsto.pdf">to the PDF!</a></
 p>a
 </object>
