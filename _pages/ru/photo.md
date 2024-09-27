@@ -150,7 +150,7 @@ div.resize2 img {
 </div>
 
 <div>
-<h2><b>ТехИнноПром 27-я международная выставка технологий и инноваций в промышленности (4 – 26 сентября 2024)</b></h2>
+<h2><b>ТехИнноПром 27-я международная выставка технологий и инноваций в промышленности (24 – 26 сентября 2024)</b></h2>
 
 <div class="gallery">
     {% include figure.liquid path="assets/img/inno_24_2.jpg" title="tibo_4.jpg" class="img-fluid rounded z-depth-1"%}
@@ -187,9 +187,8 @@ div.resize2 img {
 <div class="gallery">
     {% include figure.liquid path="assets/img/inno_24_14.jpg" title="tibo_4.jpg" class="img-fluid rounded z-depth-1"%}
 </div>
-<div class="gallery">
-    {% include figure.liquid path="assets/img/inno_24_15.jpg" title="tibo_4.jpg" class="img-fluid rounded z-depth-1"%}
-</div>
+
+
 
 </div>
 
