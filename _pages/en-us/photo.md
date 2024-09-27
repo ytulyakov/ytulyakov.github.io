@@ -1,7 +1,7 @@
 ---
 page_id: photos
 layout: page
-title: Photos
+title: photos
 permalink: /photos/
 description:
 nav: true
