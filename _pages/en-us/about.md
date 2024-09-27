@@ -120,6 +120,24 @@ social: true # includes social icons at the bottom of the page
 <h5>Robotics</h5>
 
 
+<div>
+  <h3 style="margin: 30px 0 30px;"><b>IT-PRODUCT DEVELOPMENT</b></h3>
+</div>
+<h5>WEB-development, Frontend-development, Backend-development, RPA-development (PIX, PRIMO, Sherpa, UiPath), Artificial Intelligence, Development of IT products for educational purposes</h5>
+
+<div>
+  <h3 style="margin: 30px 0 30px;"><b>ROBOTECHNICS</b></h3>
+</div>
+<h5>Development of industrial robotics, Development of rehabilitation robotics, Development of 
+educational robotics</h5>
+
+<div>
+  <h3 style="margin: 30px 0 30px;"><b>3D</b></h3>
+</div>
+<h5>3D modelling, 3D prototyping, 3D printing</h5>
+
+
+
 <div class="col-xs-11 mx-auto row mt-5">
     <h3 class="fw-bold">Education</h3>
     <div class="container col-lg-12">
