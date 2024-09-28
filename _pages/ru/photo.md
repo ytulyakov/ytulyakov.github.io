@@ -187,10 +187,11 @@ div.resize2 img {
 <div class="gallery">
     {% include figure.liquid path="assets/img/inno_24_14.jpg" title="tibo_4.jpg" class="img-fluid rounded z-depth-1"%}
 </div>
-
-
-
+<div class="gallery">
+    {% include figure.liquid path="assets/img/inno_24_16.jpg" title="tibo_4.jpg" class="img-fluid 
+rounded z-depth-1"%}
 </div>
 
+</div>
 
 </div>
