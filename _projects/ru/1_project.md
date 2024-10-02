@@ -57,20 +57,25 @@ related_publications: true
 <p>Промышленная робототехника обеспечит <b>конкурентоспособность</b> национальной экономики Беларуси на мировой арене, а производство промышленных роботов укрепит <b>технологический суверенитет</b> Беларуси.</p>
 
 <h3 style="font-weight: normal;">Проектное решение промышленного образца робота:</h3>
-<object data="../../assets/pdf/ru/project_1.pdf" type="application/pdf" width="100%" height="650px;">
-  <p>Alternative text - include a link <a href="../../assets/pdf/ru/project_1.pdf">to the PDF!</a></p>a
-</object>
+<!-- <object data="../../assets/pdf/ru/project_1.pdf" type="application/pdf" width="100%" height="650px;"> -->
+  <!-- <p>Alternative text - include a link <a href="../../assets/pdf/ru/project_1.pdf">to the PDF!</a></p>a -->
+<!-- </object> -->
+<a href="../../assets/pdf/ru/project_1.pdf">Проектное решение промышленного образца робота</a>
 
 
-<h3 style="font-weight: normal;">Экономические расчёты проекта интеллектуального промышленного робота «БАШНЯ»:</h3>
-<object data="../../assets/pdf/ru/ekonimika.pdf" type="application/pdf" width="100%" height="650px;
-">
-  <p>Alternative text - include a link <a href="../../assets/pdf/ru/ekonimika.pdf">to the PDF!</a></p>a
-</object>
+<!-- <h3 style="font-weight: normal;">Экономические расчёты проекта интеллектуального промышленного робота «БАШНЯ»:</h3> -->
+<!-- <object data="../../assets/pdf/ru/ekonimika.pdf" type="application/pdf" width="100%" height="650px; -->
+<!-- "> -->
+  <!-- <p>Alternative text - include a link <a href="../../assets/pdf/ru/ekonimika.pdf">to the PDF!</a></p>a -->
+<!-- </object> -->
 
-<h3 style="font-weight: normal;">Что даст организация производства и внедрение промышленных роботов в Республике Беларусь:</h3>
-<object data="../../assets/pdf/ru/proisvodsto.pdf" type="application/pdf" width="100%" height="650px;
-">
-  <p>Alternative text - include a link <a href="../../assets/pdf/ru/proisvodsto.pdf">to the PDF!</a></
-p>a
-</object>
+<a href="../../assets/pdf/ru/ekonimika.pdf">Экономические расчёты проекта интеллектуального промышленного робота «БАШНЯ»</a>
+
+<!-- <h3 style="font-weight: normal;">Что даст организация производства и внедрение промышленных роботов в Республике Беларусь:</h3> -->
+<!-- <object data="../../assets/pdf/ru/proisvodsto.pdf" type="application/pdf" width="100%" height="650px; -->
+<!-- "> -->
+  <!-- <p>Alternative text - include a link <a href="../../assets/pdf/ru/proisvodsto.pdf">to the PDF!</a></ -->
+<!-- p>a -->
+<!-- </object> -->
+
+<a href="../../assets/pdf/ru/proisvodsto.pdf">Что даст организация производства и внедрение промышленных роботов в Республике Беларусь</a>
