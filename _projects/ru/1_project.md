@@ -56,11 +56,11 @@ related_publications: true
 <h3 style="font-weight: normal;">Актуальность:</h3>
 <p>Промышленная робототехника обеспечит <b>конкурентоспособность</b> национальной экономики Беларуси на мировой арене, а производство промышленных роботов укрепит <b>технологический суверенитет</b> Беларуси.</p>
 
-<h3 style="font-weight: normal;">Проектное решение промышленного образца робота:</h3>
+<h3 style="font-weight: normal;">Дополнительная информация:</h3>
 <!-- <object data="../../assets/pdf/ru/project_1.pdf" type="application/pdf" width="100%" height="650px;"> -->
   <!-- <p>Alternative text - include a link <a href="../../assets/pdf/ru/project_1.pdf">to the PDF!</a></p>a -->
 <!-- </object> -->
-<a href="../../assets/pdf/ru/project_1.pdf">Проектное решение промышленного образца робота</a>
+<a href="../../assets/pdf/ru/project_1.pdf">Проектное решение промышленного образца робота (PDF)</a>
 
 
 <!-- <h3 style="font-weight: normal;">Экономические расчёты проекта интеллектуального промышленного робота «БАШНЯ»:</h3> -->
@@ -69,7 +69,7 @@ related_publications: true
   <!-- <p>Alternative text - include a link <a href="../../assets/pdf/ru/ekonimika.pdf">to the PDF!</a></p>a -->
 <!-- </object> -->
 
-<a href="../../assets/pdf/ru/ekonimika.pdf">Экономические расчёты проекта интеллектуального промышленного робота «БАШНЯ»</a>
+<a href="../../assets/pdf/ru/ekonimika.pdf">Экономические расчёты проекта интеллектуального промышленного робота «БАШНЯ» (PDF)</a>
 
 <!-- <h3 style="font-weight: normal;">Что даст организация производства и внедрение промышленных роботов в Республике Беларусь:</h3> -->
 <!-- <object data="../../assets/pdf/ru/proisvodsto.pdf" type="application/pdf" width="100%" height="650px; -->
@@ -78,4 +78,4 @@ related_publications: true
 <!-- p>a -->
 <!-- </object> -->
 
-<a href="../../assets/pdf/ru/proisvodsto.pdf">Что даст организация производства и внедрение промышленных роботов в Республике Беларусь</a>
+<a href="../../assets/pdf/ru/proisvodsto.pdf">Что даст организация производства и внедрение промышленных роботов в Республике Беларусь (PDF)</a>
