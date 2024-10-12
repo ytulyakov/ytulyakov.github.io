@@ -62,7 +62,7 @@ div.resize2 img {
 
 </style>
 
-<div class="tibo">
+<div>
 
 <div>
 
@@ -168,7 +168,7 @@ div.resize2 img {
 <div class="gallery">
     {% include figure.liquid path="assets/img/inno_24_8.jpg" title="tibo_4.jpg" class="img-fluid rounded z-depth-1"%}
 </div>
-</div>
+
 <div class="gallery">
     {% include figure.liquid path="assets/img/inno_24_9.jpg" title="tibo_4.jpg" class="img-fluid rounded z-depth-1"%}
 </div>
@@ -191,7 +191,50 @@ div.resize2 img {
     {% include figure.liquid path="assets/img/inno_24_16.jpg" title="tibo_4.jpg" class="img-fluid 
 rounded z-depth-1"%}
 </div>
+</div>
 
+<div style="clear: both;"></div>
+
+
+<div>
+<h2><b>3-ий форум IT-Академграда «Искусственный интеллект в Беларуси» (10 -11 октября 2024 г.)</b></h2>
+<div class="container">
+  <div class="row">
+    <div class="col-md-4">
+        <div class="gallery">
+            {% include figure.liquid path="assets/img/Akademgrad_4.jpg" title="tibo_4.jpg" class="img-fluid 
+        rounded z-depth-1"%}
+        </div>
+    </div>
+    <div class="col-md-8">
+         <div class="row">
+<div class="gallery">
+    {% include figure.liquid path="assets/img/Akademgrad_1.jpg" title="tibo_4.jpg" class="img-fluid 
+rounded z-depth-1"%}
+</div>
+<div class="gallery">
+    {% include figure.liquid path="assets/img/Akademgrad_3.jpg" title="tibo_4.jpg" class="img-fluid 
+rounded z-depth-1"%}
+</div>
+<div class="gallery">
+    {% include figure.liquid path="assets/img/Akademgrad_5.jpg" title="tibo_4.jpg" class="img-fluid 
+rounded z-depth-1"%}
+</div>
+<div class="gallery">
+    {% include figure.liquid path="assets/img/Akademgrad_2.jpg" title="tibo_4.jpg" class="img-fluid 
+rounded z-depth-1"%}
+</div>
+</div>
+    </div>
+  </div>
+</div>
+<div class="gallery">
+    {% include figure.liquid path="assets/img/Akademgrad_6.jpg" title="tibo_4.jpg" class="img-fluid 
+rounded z-depth-1"%}
 </div>
 
 </div>
+
+</div>
+
+<div style="clear: both;"></div>
