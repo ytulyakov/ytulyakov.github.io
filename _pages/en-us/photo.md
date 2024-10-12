@@ -213,8 +213,7 @@ rounded z-depth-1"%}
   </div>
 </div>
 <div class="gallery">
-    {% include figure.liquid path="assets/img/Akademgrad_6.jpg" title="tibo_4.jpg" class="img-fluid 
-rounded z-depth-1"%}
+    {% include figure.liquid path="assets/img/Akademgrad_6.jpg" title="tibo_4.jpg" class="img-fluid rounded z-depth-1"%}
 </div>
 
 </div>
