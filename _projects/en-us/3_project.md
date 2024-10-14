@@ -1,11 +1,11 @@
 ---
-page_id: project_3 
-layout: page 
-title: Anthropomorphic Robot 
-description: Intelligent Anthropomorphic Robot 
-img: assets/img/project3.jpg 
-importance: 1 
-category: Robotics 
+page_id: project_3
+layout: page
+title: Anthropomorphic robot
+description: Intelligent anthropomorphic robot
+img: assets/img/project3.jpg
+importance: 1
+category: robotics
 related_publications: true
 ---
 
