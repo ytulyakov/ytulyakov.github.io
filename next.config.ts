@@ -5,10 +5,19 @@ import createNextIntlPlugin from 'next-intl/plugin'
 const withNextIntl = createNextIntlPlugin()
 
 const nextConfig: NextConfig = {
-	// Dev comment this two lines
+	// Dev comment this lines
 	output: 'export',
 	images: { unoptimized: true },
-	trailingSlash: true
+	trailingSlash: true,
+	async redirects() {
+		return [
+			{
+				source: '/',
+				destination: '/ru/',
+				permanent: true
+			}
+		]
+	}
 }
 
 export default withFlowbiteReact(withNextIntl(nextConfig))
