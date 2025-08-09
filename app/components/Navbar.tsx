@@ -226,6 +226,7 @@ const Navbar = ({ locale }: { locale: string }) => {
 				<ul className='hidden sm:flex items-center'>
 					{links.map(link => {
 						const isActive = pathName === link.href
+
 						return (
 							<Link href={link.href} key={link.href}>
 								<li

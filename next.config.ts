@@ -8,7 +8,6 @@ const nextConfig: NextConfig = {
 	// Dev comment this lines
 	output: 'export',
 	images: { unoptimized: true },
-	trailingSlash: true,
 	async redirects() {
 		return [
 			{
