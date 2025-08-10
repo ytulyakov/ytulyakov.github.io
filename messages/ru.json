@@ -218,14 +218,14 @@
 				"title": "Доклад «Промышленная робототехника и искусственный интеллект» III форума IT-Академграда «Искусственный интеллект в Беларуси» 10 - 11 октябрь 2024 года",
 				"author": "Ярослав Туляков",
 				"year": 2024,
-				"url": "http://localhost:3000/files/report_industrial_robotics_and_artificial_intelligence.pdf"
+				"url": "https://ytulyakov.github.io/files/report_industrial_robotics_and_artificial_intelligence.pdf"
 			},
 			{
 				"imagePath": "/images/it_akademgrad.png",
 				"imageAlt": "IT Akademgrad",
 				"title": "Презентация к докладу «Промышленная робототехника и искусственный интеллект» III форума IT-Академграда «Искусственный интеллект в Беларуси» 10 - 11 октябрь 2024 года",
 				"year": 2024,
-				"url": "http://localhost:3000/files/presentation_report_it_akademgrad.pdf"
+				"url": "https://ytulyakov.github.io/files/presentation_report_it_akademgrad.pdf"
 			},
 			{
 				"imagePath": "/images/rpa_ai.png",

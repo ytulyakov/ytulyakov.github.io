@@ -218,14 +218,14 @@
 				"title": "Report «Industrial robotics and artificial intelligence» III forum IT-Akademgrad «Artificial intelligence in Belarus» 10 - 11 October 2024",
 				"author": "Yaroslav Tulyakov",
 				"year": 2024,
-				"url": "http://localhost:3000/files/report_industrial_robotics_and_artificial_intelligence.pdf"
+				"url": "https://ytulyakov.github.io/files/report_industrial_robotics_and_artificial_intelligence.pdf"
 			},
 			{
 				"imagePath": "/images/it_akademgrad.png",
 				"imageAlt": "IT Akademgrad",
 				"title": "Presentation for the report «Industrial robotics and artificial intelligence» of the III forum of IT-Akademgrad «Artificial intelligence in Belarus» October 10-11, 2024",
 				"year": 2024,
-				"url": "http://localhost:3000/files/presentation_report_it_akademgrad.pdf"
+				"url": "https://ytulyakov.github.io/files/presentation_report_it_akademgrad.pdf"
 			},
 			{
 				"imagePath": "/images/rpa_ai.png",
