@@ -265,20 +265,20 @@
 				"url": "https://t.me/+9G2rgWzb2e82MmYy"
 			},
 			{
-				"imagePath": "/images/projects/cortexai/anomalia_logo.jpg",
-				"imageAlt": "Logo Anomalia",
+				"imagePath": "/images/projects/cortexai/logo.png",
+				"imageAlt": "Logo CortexAI",
 				"author": "Ярослав Туляков",
-				"info": "**Умный чат-бот для бизнес-клуба «Аномалия»**, который, исходя из переписок в чате и загруженной в него базы данных, выдает ответ на любой вопрос. \nДля получения дополнительной информации свяжитесь по email.",
+				"info": "**Умный чат-бот для бизнес-клуба**, который анализирует переписку в чате и данные из загруженной базы, чтобы быстро и точно отвечать на любые вопросы.\nДля дополнительной информации свяжитесь по email.",
 				"year": 2025,
-				"url": "https://anomalia-club.by/"
+				"url": "https://t.me/+9G2rgWzb2e82MmYy"
 			},
 			{
-				"imagePath": "/images/projects/cortexai/op_nii_pkd.png",
-				"imageAlt": "Logo OP NII PKD",
+				"imagePath": "/images/projects/cortexai/logo.png",
+				"imageAlt": "Logo CortexAI",
 				"author": "Ярослав Туляков",
-				"info": "**Голосовой робот для компании «ОП НИИ ПКД»**, который консультирует, отвечает на вопросы и переадресовывает звонки на менеджеров запрашиваемых отделов. \nДля получения дополнительной информации свяжитесь по email.",
+				"info": "**IT-решение — голосовой робот**, который консультирует клиентов, отвечает на вопросы и при необходимости переводит звонок на менеджеров нужных отделов.\nДля дополнительной информации свяжитесь по email.",
 				"year": 2025,
-				"url": "https://opniipkd.by/"
+				"url": "https://t.me/+9G2rgWzb2e82MmYy"
 			},
 			{
 				"imagePath": "/images/projects/cortexai/logo.png",
