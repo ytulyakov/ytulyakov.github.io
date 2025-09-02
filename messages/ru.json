@@ -319,6 +319,24 @@
 		"value": "Фотографии",
 		"events": [
 			{
+				"event": "Августовская выставка (27.08.2025)",
+				"photos": [
+					{
+						"imagePath": "/images/photos/2025/august/3.jpg",
+						"imageAlt": "August 2025 3"
+					},
+
+					{
+						"imagePath": "/images/photos/2025/august/2.jpg",
+						"imageAlt": "August 2025 2"
+					},
+					{
+						"imagePath": "/images/photos/2025/august/1.jpg",
+						"imageAlt": "August 2025 1"
+					}
+				]
+			},
+			{
 				"event": "tibo 2025",
 				"photos": [
 					{
