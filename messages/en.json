@@ -328,10 +328,6 @@
 						"imageAlt": "Garden 2025 2"
 					},
 					{
-						"imagePath": "/images/photos/2025/botanical_garden/3.jpg",
-						"imageAlt": "Garden 2025 3"
-					},
-					{
 						"imagePath": "/images/photos/2025/botanical_garden/4.jpg",
 						"imageAlt": "Garden 2025 4"
 					},
@@ -343,13 +339,14 @@
 						"imagePath": "/images/photos/2025/botanical_garden/6.jpg",
 						"imageAlt": "Garden 2025 6"
 					},
+
+					{
+						"imagePath": "/images/photos/2025/botanical_garden/3.jpg",
+						"imageAlt": "Garden 2025 3"
+					},
 					{
 						"imagePath": "/images/photos/2025/botanical_garden/7.jpg",
 						"imageAlt": "Garden 2025 7"
-					},
-					{
-						"imagePath": "/images/photos/2025/botanical_garden/8.jpg",
-						"imageAlt": "Garden 2025 8"
 					}
 				]
 			},
