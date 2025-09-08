@@ -317,6 +317,43 @@
 		"value": "Photos",
 		"events": [
 			{
+				"event": "Science Festival (Botanical Garden, September 6, 2025)",
+				"photos": [
+					{
+						"imagePath": "/images/photos/2025/botanical_garden/1.jpg",
+						"imageAlt": "Garden 2025 1"
+					},
+					{
+						"imagePath": "/images/photos/2025/botanical_garden/2.jpg",
+						"imageAlt": "Garden 2025 2"
+					},
+					{
+						"imagePath": "/images/photos/2025/botanical_garden/3.jpg",
+						"imageAlt": "Garden 2025 3"
+					},
+					{
+						"imagePath": "/images/photos/2025/botanical_garden/4.jpg",
+						"imageAlt": "Garden 2025 4"
+					},
+					{
+						"imagePath": "/images/photos/2025/botanical_garden/5.jpg",
+						"imageAlt": "Garden 2025 5"
+					},
+					{
+						"imagePath": "/images/photos/2025/botanical_garden/6.jpg",
+						"imageAlt": "Garden 2025 6"
+					},
+					{
+						"imagePath": "/images/photos/2025/botanical_garden/7.jpg",
+						"imageAlt": "Garden 2025 7"
+					},
+					{
+						"imagePath": "/images/photos/2025/botanical_garden/8.jpg",
+						"imageAlt": "Garden 2025 8"
+					}
+				]
+			},
+			{
 				"event": "August Exhibition (August 27, 2025)",
 				"photos": [
 					{
