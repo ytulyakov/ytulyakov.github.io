@@ -319,6 +319,49 @@
 		"value": "Фотографии",
 		"events": [
 			{
+				"event": "ТехИнноПром 28-я международная выставка технологий и инноваций в промышленности (23 – 25 сентября 2025)",
+				"photos": [
+					{
+						"imagePath": "/images/photos/2025/techinnoprom/1.jpg",
+						"imageAlt": "Techinnoprom 1"
+					},
+
+					{
+						"imagePath": "/images/photos/2025/techinnoprom/3.jpg",
+						"imageAlt": "Techinnoprom 3"
+					},
+					{
+						"imagePath": "/images/photos/2025/techinnoprom/4.jpg",
+						"imageAlt": "Techinnoprom 4"
+					},
+					{
+						"imagePath": "/images/photos/2025/techinnoprom/5.jpg",
+						"imageAlt": "Techinnoprom 5"
+					},
+					{
+						"imagePath": "/images/photos/2025/techinnoprom/6.jpg",
+						"imageAlt": "Techinnoprom 6"
+					},
+					{
+						"imagePath": "/images/photos/2025/techinnoprom/2.jpg",
+						"imageAlt": "Techinnoprom 2"
+					},
+					{
+						"imagePath": "/images/photos/2025/techinnoprom/9.jpg",
+						"imageAlt": "Techinnoprom 9"
+					},
+					{
+						"imagePath": "/images/photos/2025/techinnoprom/10.jpg",
+						"imageAlt": "Techinnoprom 10"
+					},
+
+					{
+						"imagePath": "/images/photos/2025/techinnoprom/7.jpg",
+						"imageAlt": "Techinnoprom 7"
+					}
+				]
+			},
+			{
 				"event": "Фестиваль науки (Ботанический сад 06.09.2025)",
 				"photos": [
 					{
