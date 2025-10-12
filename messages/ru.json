@@ -319,6 +319,52 @@
 		"value": "Фотографии",
 		"events": [
 			{
+				"event": "XXIX Белорусский энергетический и экологический форум EnergyExpo (7 – 10 октября 2025)",
+				"photos": [
+					{
+						"imagePath": "/images/photos/2025/energyexpo/1.jpg",
+						"imageAlt": "EnergyExpo 1"
+					},
+
+					{
+						"imagePath": "/images/photos/2025/energyexpo/2.jpg",
+						"imageAlt": "EnergyExpo 2"
+					},
+					{
+						"imagePath": "/images/photos/2025/energyexpo/3.jpg",
+						"imageAlt": "EnergyExpo 3"
+					},
+					{
+						"imagePath": "/images/photos/2025/energyexpo/4.jpg",
+						"imageAlt": "EnergyExpo 4"
+					},
+					{
+						"imagePath": "/images/photos/2025/energyexpo/5.jpg",
+						"imageAlt": "EnergyExpo 5"
+					},
+					{
+						"imagePath": "/images/photos/2025/energyexpo/6.jpg",
+						"imageAlt": "EnergyExpo 6"
+					},
+					{
+						"imagePath": "/images/photos/2025/energyexpo/7.jpg",
+						"imageAlt": "EnergyExpo 7"
+					},
+					{
+						"imagePath": "/images/photos/2025/energyexpo/8.jpg",
+						"imageAlt": "EnergyExpo 8"
+					},
+					{
+						"imagePath": "/images/photos/2025/energyexpo/9.jpg",
+						"imageAlt": "EnergyExpo 9"
+					},
+					{
+						"imagePath": "/images/photos/2025/energyexpo/10.jpg",
+						"imageAlt": "EnergyExpo 10"
+					}
+				]
+			},
+			{
 				"event": "ТехИнноПром 28-я международная выставка технологий и инноваций в промышленности (23 – 25 сентября 2025)",
 				"photos": [
 					{
