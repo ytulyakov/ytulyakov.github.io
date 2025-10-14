@@ -320,6 +320,10 @@
 				"event": "4th Forum of IT-Akademgrad “Artificial Intelligence in Belarus” (October 13-14, 2025)",
 				"photos": [
 					{
+						"imagePath": "/images/photos/2025/akademgrad/0.jpg",
+						"imageAlt": "Akademgrad 0"
+					},
+					{
 						"imagePath": "/images/photos/2025/akademgrad/1.jpg",
 						"imageAlt": "Akademgrad 1"
 					},
@@ -338,10 +342,6 @@
 					{
 						"imagePath": "/images/photos/2025/akademgrad/5.jpg",
 						"imageAlt": "Akademgrad 5"
-					},
-					{
-						"imagePath": "/images/photos/2025/akademgrad/6.jpg",
-						"imageAlt": "Akademgrad 6"
 					}
 				]
 			},

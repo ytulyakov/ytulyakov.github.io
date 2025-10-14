@@ -322,6 +322,10 @@
 				"event": "4-ий форум IT-Академграда «Искусственный интеллект в Беларуси» (13 - 14 октября 2025 г.)",
 				"photos": [
 					{
+						"imagePath": "/images/photos/2025/akademgrad/0.jpg",
+						"imageAlt": "Akademgrad 0"
+					},
+					{
 						"imagePath": "/images/photos/2025/akademgrad/1.jpg",
 						"imageAlt": "Akademgrad 1"
 					},
@@ -340,10 +344,6 @@
 					{
 						"imagePath": "/images/photos/2025/akademgrad/5.jpg",
 						"imageAlt": "Akademgrad 5"
-					},
-					{
-						"imagePath": "/images/photos/2025/akademgrad/6.jpg",
-						"imageAlt": "Akademgrad 6"
 					}
 				]
 			},
