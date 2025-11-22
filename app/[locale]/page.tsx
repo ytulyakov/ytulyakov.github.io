@@ -41,9 +41,9 @@ export default function Home() {
 			<div className='grid grid-cols-12 gap-4 lg:pt-7 lg:px-30'>
 				<div className='col-span-12 lg:col-span-4'>
 					<div className='px-10 py-6 md:px-0 sm:py-0 '>
-						<div className='border-4 border-sky-500'>
+						<div>
 							<Image
-								src='/images/profile.jpeg'
+								src='/images/profile_v2.png'
 								alt='Image Profile'
 								width={1000}
 								height={1000}
