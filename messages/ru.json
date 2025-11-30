@@ -189,6 +189,14 @@
 		"value": "Публикации",
 		"publications": [
 			{
+				"imagePath": "/images/photos/2025/belisa/belisa_publication.jpg",
+				"imageAlt": "Innovation Fair",
+				"title": "Сборник разработок БелИСА (Белорусский институт системного анализа и информационного обеспечения научно-технической сферы) 2025 года (Разработка «Интеллектуальный гуманоидный робот (воплощенный искусственный интеллект – Индустрия 5.0)» Тулякова Я.И., стр.30)",
+				"author": "Ярослав Туляков",
+				"year": 2025,
+				"url": "https://ytulyakov.github.io/files/2025/catalog_innovative_developments.pdf"
+			},
+			{
 				"imagePath": "/images/innovation_fair.png",
 				"imageAlt": "Innovation Fair",
 				"title": "Сборник разработок БелИСА (Белорусский институт системного анализа и информационного обеспечения научно-технической сферы) 2024 года (Разработка «Интеллектуальный промышленный робот (с применением технологий искусственного интеллекта, машинного обучения, нейросети, машинного зрения — Индустрия 4.0)» Тулякова Я.И., стр.25)",
@@ -318,6 +326,35 @@
 	"Photos": {
 		"value": "Фотографии",
 		"events": [
+			{
+				"event": "Ярмарка инновационных разработок «Технологии будущего: роботизация, искусственный интеллект» (27 ноября 2025 года, г. Минск)",
+				"photos": [
+					{
+						"imagePath": "/images/photos/2025/belisa/1.jpg",
+						"imageAlt": "Belisa 1"
+					},
+					{
+						"imagePath": "/images/photos/2025/belisa/2.jpg",
+						"imageAlt": "Belisa 2"
+					},
+					{
+						"imagePath": "/images/photos/2025/belisa/3.jpg",
+						"imageAlt": "Belisa 3"
+					},
+					{
+						"imagePath": "/images/photos/2025/belisa/5.jpg",
+						"imageAlt": "Belisa 5"
+					},
+					{
+						"imagePath": "/images/photos/2025/belisa/4.jpg",
+						"imageAlt": "Belisa 4"
+					},
+					{
+						"imagePath": "/images/photos/2025/belisa/6.jpg",
+						"imageAlt": "Belisa 6"
+					}
+				]
+			},
 			{
 				"event": "IV форум IT-Академграда «Искусственный интеллект в Беларуси» (13 - 14 октября 2025 г.)",
 				"photos": [

@@ -1,1 +1,0 @@
-rm -rf .next out && npm run build && rm -rf docs && mkdir docs && cp -R out/* docs/ && touch docs/.nojekyll
